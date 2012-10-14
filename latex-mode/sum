@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: sum
+# key: sum
+# contributor: VP
+# --
+\sum_{$1}{$2} $0

@@ -1,0 +1,19 @@
+# -*- mode: snippet -*-
+# name: newdoc
+# key: newdoc
+# contributor: VP
+# --
+\date{`(format-time-string "%Y-%m-%d")`}
+\documentclass[12pt]{article,a4paper}
+\author{Valentin Plechinger}
+\title{$1}
+\usepackage{amssymb,amsmath, amsthm}
+
+\begin{document}
+\maketitle
+\renewcommand{\abstractname}{$3}
+\begin{abstract}
+  $2
+\end{abstract}
+  $0
+\end{document} 

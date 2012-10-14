@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: forall
+# key: forall
+# contributor: VP
+# --
+\forall $1 \in $2$0

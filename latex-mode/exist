@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: exist
+# key: ex
+#contributor: VP
+# --
+\exists $0
