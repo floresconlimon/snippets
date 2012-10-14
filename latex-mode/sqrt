@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: sqrt
+# key: sqrt
+#contributor: VP
+# --
+\sqrt[$1]{$2}$0

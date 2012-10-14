@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: cfrac
+# key: cfrac
+#contributor: VP
+# --
+\cfrac{$1}{$2} $0

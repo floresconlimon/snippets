@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: sum
-# key: sum
+# name: textit
+# key: textit
 # contributor: VP
 # --
-\sum_{$1}^{$2} $0
+\textit{$1}$0

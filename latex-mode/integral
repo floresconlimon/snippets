@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: integral
+# key: int
+#contributor: VP
+# --
+\int_{$1}^{$2} $4 \, \mathrm{d}$3 $0

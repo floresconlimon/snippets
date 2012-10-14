@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: binom
+# key: binom
+#contributor: VP
+# --
+\binom{$1}{$2} $0
